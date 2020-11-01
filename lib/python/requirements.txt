@@ -1,0 +1,4 @@
+astroid
+bandit
+pylint
+coverage
